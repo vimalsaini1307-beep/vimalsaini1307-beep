@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Vimal Saini 👋
 
-<!--
-**vimalsaini1307-beep/vimalsaini1307-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Meta Ads | Lead Generation | Digital Marketing | Web Development
 
-Here are some ideas to get you started:
+I'm interested in building digital solutions, generating quality leads, and creating projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring technology, developing websites, and working on digital projects.
+
+## 🚀 What I Do
+
+- 📢 Meta Ads & Digital Advertising
+- 🎯 Lead Generation
+- 🌐 Website Development
+- 💡 Digital Projects & Ideas
+- 📊 Exploring Digital Marketing Strategies
+
+## 🛠️ Skills & Interests
+
+- Digital Marketing
+- Meta Advertising
+- Lead Generation
+- Web Development
+- HTML, CSS & JavaScript
+- React
+- Git & GitHub
+
+## 🌐 Connect With Me
+
+- **Portfolio:** [Visit My Website](https://vimal-saini-portfolio.vercel.app/)
+- **GitHub:** [@vimalsaini1307-beep](https://github.com/vimalsaini1307-beep)
+
+---
+
+⭐ Thanks for visiting my profile!
+
+*Always learning, building, and exploring new possibilities.*
